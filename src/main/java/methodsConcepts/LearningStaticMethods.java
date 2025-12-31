@@ -16,7 +16,7 @@ public class LearningStaticMethods {
 	
 	public static void main(String[]args) {
 		
-		function();
+		LearningStaticMethods.function();
 	}
 	
 	
