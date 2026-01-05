@@ -1,6 +1,7 @@
 package myLearningsJava;
+import java.util.Arrays;
 
-public class Arrays {
+public class ArraysExample {
 
 	
 	
@@ -10,7 +11,8 @@ public class Arrays {
 		
 		System.out.println(cards[1]);
 		System.out.println(cards.length);
-		
+		System.out.println(cards);
+		System.out.println(Arrays.toString(cards));
 	}
 	
 	
