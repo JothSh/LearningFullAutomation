@@ -1,4 +1,4 @@
-package methodsConcepts;
+package myLearningsJava;
 
 public class MethodsPart1 {
 
